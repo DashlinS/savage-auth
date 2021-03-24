@@ -1,5 +1,5 @@
 // server.js
-
+//PROPERTY OF GARDNER GANG - Worked with - Asianna, Julie, Brian, Ziya, Dash, Wade, Tanecia
 // set up ======================================================================
 // get all the tools we need
 var express  = require('express');
