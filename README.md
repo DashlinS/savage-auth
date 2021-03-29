@@ -1,13 +1,24 @@
-## Installation
+![21 Savage](public/21savage.jpg)
+# Savage Auth
 
-1. Clone repo
-2. run `npm install`
+This project is an express practice demo. This helped me learn authentication and provided a reference for future projects!
 
-## Usage
+&emsp;
 
-1. run `node server.js`
-2. Navigate to `localhost:8080`
+<img src="" width="700">
 
-## Credit
+<!-- &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Click Here to go to the website!]() -->
 
-Modified from Scotch.io's auth tutorial
+## How Its Made 
+
+**Tech used:** 
+
+HTML, CSS, JS, and Node JS.
+
+### My Other Projects 
+
+Check out some of my other projects working with node.js!
+
+* [Music List](https://github.com/DashlinS/MyMusicList)
+* [MoodTracker](https://github.com/DashlinS/moodtracker)
+* [RPS Lizard Spock](https://github.com/DashlinS/RPSLizardSpock)

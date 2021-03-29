@@ -1,10 +1,10 @@
 // server.js
-
+//PROPERTY OF GARDNER GANG - Worked with - Asianna, Julie, Brian, Ziya, Dash, Wade, Tanecia
 // set up ======================================================================
 // get all the tools we need
 var express  = require('express');
 var app      = express();
-var port     = process.env.PORT || 8080;
+var port     = process.env.PORT || 3000;
 const MongoClient = require('mongodb').MongoClient
 var mongoose = require('mongoose');
 var passport = require('passport');
